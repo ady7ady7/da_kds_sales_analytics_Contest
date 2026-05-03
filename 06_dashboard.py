@@ -151,7 +151,7 @@ with st.sidebar:
 # PAGE: OVERVIEW
 # ══════════════════════════════════════════════════════════════════════════════
 if page == "Overview":
-    st.title("KDS Subscription Analytics")
+    st.title("KDS Sales Analytics")
     st.markdown(
         "The price of a KDS subscription rose four times from **99 PLN** to **249 PLN** "
         "over 29 months (Nov 2023 to Mar 2026). "
