@@ -18,7 +18,7 @@ from shared_style import (
 
 # ── PAGE CONFIG ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="KDS Subscription Analytics",
+    page_title="KDS Sales Analytics",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
