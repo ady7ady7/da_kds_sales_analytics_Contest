@@ -293,7 +293,11 @@ if page == "Overview":
             "Discount subscribers stay slightly longer, and the LTV difference vs "
             "full-price is statistically insignificant in every era. "
             "The one exception: first-month (M+1) retention is noticeably lower "
-            "for promo subscribers in the 99 and 169 PLN eras."
+            "for promo subscribers in the 99 and 169 PLN eras. "
+            "Promotions also clearly drive acquisition spikes: sign-up volumes jump "
+            "visibly during promo periods, suggesting strong price sensitivity at the "
+            "top of the funnel. CAC data would be needed to assess whether these "
+            "campaigns are profitable."
         )
     st.markdown(
         "**The subscriber base is growing**\n\n"
