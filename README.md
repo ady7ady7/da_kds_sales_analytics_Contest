@@ -1,6 +1,6 @@
 # KDS Subscription Analytics
 
-**Live dashboard:** https://github.com/ady7ady7/da_kds_Contest_analysis *(update after deploy)*
+**Live dashboard:** https://da-kds-analytics.streamlit.app/
 
 Analysis of 4,227 transactions from 1,057 subscribers across 29 months (Nov 2023 – Mar 2026), covering four price increases: 99 → 169 → 199 → 249 PLN/month.
 
